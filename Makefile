@@ -3,9 +3,9 @@
 
 MAKEFLAGS = -swr
 
-BRANCH_COMMON = testing
+BRANCH_COMMON = alan/raspberrypi
 
-URL_COMMON = "git://github.com/webOS-ports/webos-ports-setup.git"
+URL_COMMON = "git://github.com/Andolamin/webos-ports-setup.git"
 
 UPDATE_CONFFILES_ENABLED = "0"
 RESET_ENABLED = "0"
